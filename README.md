@@ -87,16 +87,18 @@ The backend, written in Go language, it is designed as a service. It exposes RES
 Below there are some screenshots showing the main features of the tool.
 
 ### Main window, with connections list and stream content
-![Connection Content](https://raw.githubusercontent.com/keshavgoyal1744/caronte/main/frontend/screenshots/main.png)
+![main](https://github.com/keshavgoyal1744/caronte/assets/24409893/9ad28507-1a2c-4c6d-b585-60c7ea4616e1)
+
 
 ### Main window, with the timeline expanded
-![Connection Content](https://raw.githubusercontent.com/keshavgoyal1744/caronte/main/frontend/screenshots/main2.png)
+![main2](https://github.com/keshavgoyal1744/caronte/assets/24409893/d18eb63b-0903-46e9-9dc3-5a6c4623e600)
 
 ### Rules and services view
-![Connection Content](https://raw.githubusercontent.com/keshavgoyal1744/caronte/main/frontend/screenshots/rules_services.png)
+![rules_services](https://github.com/keshavgoyal1744/caronte/assets/24409893/8ecd20b6-7574-44a6-8128-837152935801)
+
 
 ### Searches and pcaps view
-![Connection Content](https://raw.githubusercontent.com/keshavgoyal1744/caronte/main/frontend/screenshots/searches_pcaps.png)
+![searches_pcaps](https://github.com/keshavgoyal1744/caronte/assets/24409893/0ee49af9-e0c0-446a-b58d-8049f7f95344)
 
 ## License
 caronte was created by [Emiliano Ciavatta] and revised by Keshav Goyal is licensed under the [GPL-3.0 license](LICENSE).
