@@ -48,6 +48,7 @@ There are two ways to install Caronte:
 ### Run with Docker
 The only things to do are:
 -   clone the repo, with `git clone https://github.com/keshavgoyal1744/caronte.git`
+-   unzip the zip file.
 -   inside the `caronte` folder, run `docker-compose up -d`
 -   wait for the image to be compiled and open browser at `http://localhost:3333`
 
